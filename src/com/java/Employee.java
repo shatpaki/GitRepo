@@ -1,7 +1,7 @@
 package com.java;
 
 public class Employee {
-	
+	//Checking Branch Protection Rule.
 	//Getters and Setters
 	private String name;
 	private int age;
