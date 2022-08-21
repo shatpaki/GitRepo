@@ -2,6 +2,7 @@ package com.java;
 
 public class Employee {
 	
+	//Getters and Setters
 	private String name;
 	private int age;
 	
