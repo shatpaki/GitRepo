@@ -8,6 +8,7 @@ public class Employee {
 	//Getters and Setters
 	private String name;
 	private int age;
+	private double salary;
 	
 	public String getName() {
 		return name;
