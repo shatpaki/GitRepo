@@ -2,7 +2,7 @@ package com.java;
 
 public class TestJava {
 
-//Change 3
+//Change from master Eclipse
 
 //Change 6
 
