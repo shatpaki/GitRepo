@@ -8,7 +8,7 @@ public class Employee {
 	//Getters and Setters
 	private String name;
 	private int age;
-	private int salary;
+	private double salary;
 	private String address;
 	
 	public String getName() {
