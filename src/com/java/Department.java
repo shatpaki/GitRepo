@@ -4,9 +4,11 @@ public class Department {
 
 public static void main(String[] args) {
 
-	private String deptName;
-	private int deptID;
+	String deptName;
+	int deptID;
+	String Section;
 	//change3
-	//change2
+	//change4
+	
 }
 }
