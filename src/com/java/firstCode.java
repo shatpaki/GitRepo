@@ -6,5 +6,6 @@ public class firstCode {
 		
 		System.out.println("Hello World !!!");
 		System.out.println("Take Input from use and add values.");
+		System.out.println("Submit data to database.");
 	}
 }
