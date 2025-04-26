@@ -6,5 +6,5 @@ public class Company {
 	private int companyID;
 	private String address;
 	private String phoneNumber;
-	private String street4;
+	private String street6;
 }
